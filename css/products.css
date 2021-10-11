@@ -1,0 +1,34 @@
+
+.product-img-box{
+  text-align: center;
+}
+.product-img-anchors{
+  text-decoration:none;
+  color: #303133;
+
+}
+.product-img-anchors:hover{
+  text-decoration: none;
+  color: #1D58A8;
+}
+.product-img-button{
+  color: #1D58A8;
+  background-color: transparent;
+border: 1px solid #1D58A8;
+font-size: 12px;
+padding: 13px 31px ;
+text-align: center;
+cursor: pointer;
+border-radius: 1px;
+outline: none;
+}
+.product-img-button:hover{
+  background-color: #1D58A8;
+  color: #ffffff;
+}
+.productCenter{
+  align-items: center;
+}
+.product-img-left{
+  width: 100%;
+}
